@@ -1,6 +1,6 @@
 # BinCollectionSchedule
 
-### Bin Collection Schedule (Android App)
+###Bin Collection Schedule (Android App)
 
 ------------
 
@@ -36,3 +36,8 @@ The source code (for want of a better word) is available.
 ------------
 
 I will (probably, maybe) update it at times.
+
+
+------------
+
+Virus Scan result can be viewed [here](https://www.virustotal.com/gui/file/914e1b34ff4b05963d7e61713c56cfc2537ee6660c628795e5326ffe5c55817c?nocache=1 "here").
